@@ -1,7 +1,7 @@
 public class TestGit{
 	
 	public void static main(){
-		sysout("我能!")
+		sysout("huihui能!")sysout("feifei能!")
 	}
 	
 }
